@@ -7,9 +7,9 @@ export const environment = {
   appPage: "/SitePages/Home.aspx/",
   proxyTenant: "http://localhost:4200",
   proxyUrl: "http://localhost:6969",
-  webRelativeUrl: "/sites/elysium20",
+  webRelativeUrl: "/sites/Osiptel",
   sitePared: "pared",
-  urlForDownloadTest: 'https://agpglass.sharepoint.com',
+  urlForDownloadTest: 'https://sssolmitsac253.sharepoint.com',
 
    /*appPage: '/SitePages/app.aspx/',
    cdnUrl: 'https://OSIPTEL.sharepoint.com/sites/externoperu/creacion-materiales/',

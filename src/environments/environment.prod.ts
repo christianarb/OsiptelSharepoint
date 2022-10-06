@@ -14,15 +14,16 @@ export const environment = {
   sitePared: 'pared',
   urlForDownloadTest: 'https://OSIPTEL.sharepoint.com',*/
 
-  appPage: '/SitePages/app.aspx/',
-  cdnUrl: 'https://agpglass.sharepoint.com/sites/elysium20',
-  paredUrl: 'https://agpglass.sharepoint.com/sites/elysium20',
-  proxyTenant: 'https://agpglass.sharepoint.com',
-  proxyUrl: 'https://agpglass.sharepoint.com',
-  webRelativeUrl: '/sites/elysium20',
-  sitePared: 'pared',
-  urlForDownloadTest: 'https://agpglass.sharepoint.com',
 
+  appPage: '/SitePages/app.aspx/',
+  cdnUrl: 'https://sssolmitsac253.sharepoint.com/sites/Osiptel',
+  paredUrl: 'https://sssolmitsac253.sharepoint.com/sites/Osiptel',
+  proxyTenant: 'https://sssolmitsac253.sharepoint.com',
+  proxyUrl: 'https://sssolmitsac253.sharepoint.com',
+  webRelativeUrl: '/sites/Osiptel',
+  sitePared: 'pared',
+  urlForDownloadTest: 'https://sssolmitsac253.sharepoint.com',
+  
   // appPage: '/SitePages/app.aspx/',
   // cdnUrl: 'https://OSIPTEL.sharepoint.com/sites/externoperu/creacion-materiales',
   // paredUrl: 'https://OSIPTEL.sharepoint.com/sites/externoperu/creacion-materiales',
